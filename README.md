@@ -1,21 +1,21 @@
-# 🧱 Mini Azure in a Box
+# Mini Azure in a Box
 
 A fully local, Docker-powered, fake cloud provider that simulates VM provisioning, container orchestration, load balancing, and service discovery. Think of it as your own DIY Azure built entirely with open-source tools.
 
-## 🚀 Stack
+## Stack
 - Docker
 - NGINX (Load Balancer / Reverse Proxy)
 - Bash scripts (Orchestration)
 - SQLite (Service Registry)
 - (Optional) VirtualBox + Vagrant (Infrastructure simulation)
 
-## 🧠 What You Learn
+## What Can You Learn
 - Provisioning and orchestration logic
 - Service discovery with SQLite
 - Load balancing and reverse proxying
 - Local resource monitoring and lifecycle management
 
-## 🛠️ Getting Started
+## Getting Started
 
 ```bash
 git clone https://github.com/your-user/mini-azure-in-a-box.git
